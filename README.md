@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shireenchand&&count_private=true&&show_icons=true&&theme=synthwave" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireenchand&layout=compact&&theme=synthwave" />
 
 
 
