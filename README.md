@@ -6,10 +6,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on to combine my interest in programming, movies and music to create something awesome!
-- 🌱 I’m currently learning Python for Machine Learning.
-- 📫 How to reach me: www.linkedin.com/in/shireen-chand
-- 😄 Pronouns: She/Her  
+My name is Shireen Chand and I'm a Second Year College Student. I am currently the Artificial Intelligence and Machine Learning Co-Lead at Google Developer Students Club, MPSTME. You can find me on [![LinkedIn][3.2]][3]. 
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[2]: https://www.linkedin.com/in/shireen-chand/
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shireenchand&&count_private=true&&show_icons=true&&theme=synthwave" />
