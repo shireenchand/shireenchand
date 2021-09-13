@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-My name is Shireen Chand and I'm a Second Year College Student. I am currently the Artificial Intelligence and Machine Learning Co-Lead at Google Developer Students Club, MPSTME. You can find me on [![LinkedIn][3.2]][3]. 
+My name is Shireen Chand and I'm a Second Year College Student. I am currently the Artificial Intelligence and Machine Learning Co-Lead at Google Developer Students Club, MPSTME. You can find me on <img src="https://raw.githubusercontent.com/shireenchand/shireenchand/master/linkedin.png" width="30px"> 
 
 [2.2]: https://raw.githubusercontent.com/shireenchand/shireenchand/master/linkedin.png
 
