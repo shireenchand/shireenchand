@@ -10,6 +10,8 @@ Here are some ideas to get you started: -->
 
 My name is Shireen Chand and I'm a Second Year College Student. I am currently the Artificial Intelligence and Machine Learning Co-Lead at Google Developer Students Club, MPSTME. You can find me on [![LinkedIn][1.2]][1].
 
+Also currently, I'm part of ISA MPSTME where I develop flutter apps for the community.
+
 [1.2]: https://raw.githubusercontent.com/shireenchand/shireenchand/master/linkedin-3-16.png
 
 [1]: https://www.linkedin.com/in/shireen-chand/
