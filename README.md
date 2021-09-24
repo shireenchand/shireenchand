@@ -31,7 +31,7 @@ Also currently, I'm part of ISA MPSTME where I develop flutter apps for the comm
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shireenchand&&count_private=true&&show_icons=true&&theme=synthwave" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shireenchand&layout=compact&&theme=synthwave" />
 
-## 😋 Let's Connect 
+## 😃 Let's Connect 
 <a href="https://linkedin.com/in/shireen-chand/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
