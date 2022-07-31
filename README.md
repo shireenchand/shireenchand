@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/shireenchand/shireenchand/master/shireenchand.png">
+<img src="https://github.com/shireenchand/shireenchand/blob/main/Blue%20Liquid%20Art%20Design%20Gallery%20Intro%20Video.gif">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/shireenchand/shireenchand/master/wave.gif" width="30px">
 
