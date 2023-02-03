@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started: -->
 
-My name is Shireen Chand and I'm a Third Year College Student. I am currently the Technical Head at ISA MPSTME where I develop flutter apps for the community.. You can find me on [![LinkedIn][1.2]][1].
+My name is Shireen Chand and I'm a Third Year College Student. I currently work as a Computer Vision Intern at Enord. I am also the Secretary of Operations at Google DSC MPSTME and the Technical Head at ISA MPSTME where I develop flutter apps for the community. You can find me on [![LinkedIn][1.2]][1].
 
 [1.2]: https://raw.githubusercontent.com/shireenchand/shireenchand/master/linkedin-3-16.png
 
